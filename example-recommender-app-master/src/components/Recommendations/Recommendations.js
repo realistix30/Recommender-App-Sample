@@ -3,7 +3,7 @@ import "./Recommendations.css";
 import ProductCard from "components/ProductCard/ProductCard";
 import products from "assets/products.json";
 
-const API_TOKEN = "Token cc0a9c3cb327e3cac379ea544abcc461e3a2130a"
+const API_TOKEN = "Token a52464f7152e6f50ef16be61586f8456d3c77b76"
 const API_URL = "https://api.ubiops.com/v2.1";
 const PROJECT_NAME = "recommender-engine-capstone";
 const DEPLOYMENT_NAME = "recommender-model-apriori";
