@@ -17,7 +17,6 @@ async function postRequest(url = "", data = {}) {
       Authorization: API_TOKEN,
     },
     body: JSON.stringify(data),
-    mode: "no-cors",
   });
   return response.json();
 }
