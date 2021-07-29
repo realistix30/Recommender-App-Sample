@@ -9,7 +9,7 @@ const Header = () => {
   return (
     <header className="header">
       <h1>
-        <Link to="/">EskweFarm</Link>
+        <Link to="/">Mayani</Link>
       </h1>
       <div>
         <IconButton icon="icon-user" className="header__button" />
